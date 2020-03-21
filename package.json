@@ -1,0 +1,23 @@
+{
+  "name": "march-travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raymondng154/march-travel.git"
+  },
+  "author": "Trung Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raymondng154/march-travel/issues"
+  },
+  "homepage": "https://github.com/raymondng154/march-travel#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  }
+}
