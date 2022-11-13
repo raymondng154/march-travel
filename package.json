@@ -21,7 +21,7 @@
     "lodash": "^4.17.15",
     "normalize.css": "^8.0.1",
     "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "autoprefixer": "^9.7.4",
